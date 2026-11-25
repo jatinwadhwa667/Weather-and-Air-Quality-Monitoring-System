@@ -31,7 +31,7 @@ The project provides details such as temperature, weather conditions, geographic
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/jatinwadhwa667/Weather-and-Air-Quality-Monitoring-System.git
 ```
 
 ### 2. Open the Project Folder
